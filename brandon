@@ -1,0 +1,115 @@
+USER       PID %CPU %MEM    VSZ   RSS TTY      STAT START   TIME COMMAND
+root         1  0.0  0.1  33512  4112 ?        Ss   Oct28   0:13 /sbin/init
+root         2  0.0  0.0      0     0 ?        S    Oct28   0:00 [kthreadd]
+root         3  0.0  0.0      0     0 ?        S    Oct28   1:04 [ksoftirqd/0]
+root         5  0.0  0.0      0     0 ?        S<   Oct28   0:00 [kworker/0:0H]
+root         7  0.0  0.0      0     0 ?        S    Oct28   0:43 [rcu_sched]
+root         8  0.0  0.0      0     0 ?        S    Oct28   0:00 [rcu_bh]
+root         9  0.0  0.0      0     0 ?        S    Oct28   0:36 [rcuos/0]
+root        10  0.0  0.0      0     0 ?        S    Oct28   0:00 [rcuob/0]
+root        11  0.0  0.0      0     0 ?        S    Oct28   0:00 [migration/0]
+root        12  0.0  0.0      0     0 ?        S    Oct28   0:03 [watchdog/0]
+root        13  0.0  0.0      0     0 ?        S<   Oct28   0:00 [khelper]
+root        14  0.0  0.0      0     0 ?        S    Oct28   0:00 [kdevtmpfs]
+root        15  0.0  0.0      0     0 ?        S<   Oct28   0:00 [netns]
+root        16  0.0  0.0      0     0 ?        S<   Oct28   0:00 [perf]
+root        17  0.0  0.0      0     0 ?        S    Oct28   0:00 [khungtaskd]
+root        18  0.0  0.0      0     0 ?        S<   Oct28   0:00 [writeback]
+root        19  0.0  0.0      0     0 ?        SN   Oct28   0:00 [ksmd]
+root        20  0.0  0.0      0     0 ?        SN   Oct28   0:01 [khugepaged]
+root        21  0.0  0.0      0     0 ?        S<   Oct28   0:00 [crypto]
+root        22  0.0  0.0      0     0 ?        S<   Oct28   0:00 [kintegrityd]
+root        23  0.0  0.0      0     0 ?        S<   Oct28   0:00 [bioset]
+root        24  0.0  0.0      0     0 ?        S<   Oct28   0:00 [kblockd]
+root        25  0.0  0.0      0     0 ?        S<   Oct28   0:00 [ata_sff]
+root        26  0.0  0.0      0     0 ?        S<   Oct28   0:00 [md]
+root        27  0.0  0.0      0     0 ?        S<   Oct28   0:00 [devfreq_wq]
+root        31  0.0  0.0      0     0 ?        S    Oct28   0:00 [kswapd0]
+root        32  0.0  0.0      0     0 ?        S    Oct28   0:00 [fsnotify_mark]
+root        33  0.0  0.0      0     0 ?        S    Oct28   0:00 [ecryptfs-kthrea]
+root        45  0.0  0.0      0     0 ?        S<   Oct28   0:00 [kthrotld]
+root        46  0.0  0.0      0     0 ?        S<   Oct28   0:00 [acpi_thermal_pm]
+root        47  0.0  0.0      0     0 ?        S    Oct28   0:00 [scsi_eh_0]
+root        48  0.0  0.0      0     0 ?        S<   Oct28   0:00 [scsi_tmf_0]
+root        49  0.0  0.0      0     0 ?        S    Oct28   0:00 [scsi_eh_1]
+root        50  0.0  0.0      0     0 ?        S<   Oct28   0:00 [scsi_tmf_1]
+root        56  0.0  0.0      0     0 ?        S<   Oct28   0:00 [ipv6_addrconf]
+root        75  0.0  0.0      0     0 ?        S<   Oct28   0:00 [deferwq]
+root        76  0.0  0.0      0     0 ?        S<   Oct28   0:00 [charger_manager]
+root       117  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_con]
+root       119  0.0  0.0      0     0 ?        S<   Oct28   0:00 [kpsmoused]
+root       125  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       128  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       129  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       131  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       133  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       135  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       137  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       141  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       143  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       145  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       147  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       149  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       151  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       153  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       155  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       158  0.0  0.0      0     0 ?        S    Oct28   0:00 [scsi_eh_2]
+root       159  0.0  0.0      0     0 ?        S<   Oct28   0:00 [scsi_tmf_2]
+root       160  0.0  0.0      0     0 ?        S    Oct28   0:00 [scsi_eh_3]
+root       161  0.0  0.0      0     0 ?        S<   Oct28   0:00 [scsi_tmf_3]
+root       162  0.0  0.0      0     0 ?        S    Oct28   0:00 [scsi_eh_4]
+root       163  0.0  0.0      0     0 ?        S<   Oct28   0:00 [scsi_tmf_4]
+root       164  0.0  0.0      0     0 ?        S    Oct28   0:00 [scsi_eh_5]
+root       165  0.0  0.0      0     0 ?        S<   Oct28   0:00 [scsi_tmf_5]
+root       166  0.0  0.0      0     0 ?        S<   Oct28   0:00 [hv_vmbus_ctl]
+root       216  0.0  0.0      0     0 ?        S    Oct28   0:07 [jbd2/sda1-8]
+root       217  0.0  0.0      0     0 ?        S<   Oct28   0:00 [ext4-rsv-conver]
+root       361  0.0  0.0      0     0 ?        S<   Oct28   0:01 [kworker/0:1H]
+root       394  0.0  0.0  19480   180 ?        S    Oct28   0:00 upstart-udev-bridge --daemon
+root       400  0.0  0.0  51400  3308 ?        Ss   Oct28   0:00 /lib/systemd/systemd-udevd --daemon
+root       580  0.0  0.0  15264   216 ?        S    Oct28   0:00 upstart-socket-bridge --daemon
+root       775  0.0  0.0  10228  3184 ?        Ss   Oct28   0:00 dhclient -1 -v -pf /run/dhclient.eth0.pid -lf /var/lib/dhcp/dhclient.eth0.leases eth0
+root       825  0.0  0.5 283256 19688 ?        Ssl  Oct28   8:18 /usr/bin/python /usr/sbin/waagent -daemon
+root      1144  0.0  0.0  15280   204 ?        S    Oct28   0:00 upstart-file-bridge --daemon
+message+  1152  0.0  0.0  39224  2352 ?        Ss   Oct28   0:00 dbus-daemon --system --fork
+root      1162  0.0  0.0  35024  2992 ?        Ss   Oct28   0:00 /lib/systemd/systemd-logind
+syslog    1176  0.0  1.2 260852 45524 ?        Ssl  Oct28   0:31 rsyslogd
+root      1277  0.0  0.0  14544  2088 tty4     Ss+  Oct28   0:00 /sbin/getty -8 38400 tty4
+root      1280  0.0  0.0  14544  2112 tty5     Ss+  Oct28   0:00 /sbin/getty -8 38400 tty5
+root      1284  0.0  0.0  14544  2100 tty2     Ss+  Oct28   0:00 /sbin/getty -8 38400 tty2
+root      1285  0.0  0.0  14544  2144 tty3     Ss+  Oct28   0:00 /sbin/getty -8 38400 tty3
+root      1287  0.0  0.0  14544  2060 tty6     Ss+  Oct28   0:00 /sbin/getty -8 38400 tty6
+root      1317  0.0  0.0   4372  1660 ?        Ss   Oct28   0:00 acpid -c /etc/acpi/events -s /var/run/acpid.socket
+root      1318  0.0  0.0  23660  2176 ?        Ss   Oct28   0:00 cron
+daemon    1319  0.0  0.0  19144   164 ?        Ss   Oct28   0:00 atd
+unscd     1345  0.0  0.0  14920  1056 ?        Ss   Oct28   0:34 /usr/sbin/nscd
+root      1433  0.0  0.0   6112  1700 tty1     Ss+  Oct28   0:00 /sbin/getty -8 38400 tty1
+root      1440  0.0  0.0   4360  1576 ttyS0    Ss+  Oct28   0:00 /sbin/getty -L ttyS0 115200 vt102
+root      1449  0.0  0.0      0     0 ?        S    Oct28   0:00 [jbd2/sdb1-8]
+root      1450  0.0  0.0      0     0 ?        S<   Oct28   0:00 [ext4-rsv-conver]
+root      1539  0.0  0.1  55092  5380 ?        Ss   Oct28   0:27 /usr/sbin/sshd -D
+root      1587  0.0  0.0      0     0 ?        S    Oct28   0:00 [kauditd]
+root     12680  0.0  0.0      0     0 ?        S<   Oct28   0:00 [xfsalloc]
+root     12681  0.0  0.0      0     0 ?        S<   Oct28   0:00 [xfs_mru_cache]
+root     12702  0.0  0.0      0     0 ?        S<   Oct28   0:00 [bioset]
+root     31040  0.0  0.0      0     0 ?        S    Oct28   0:00 [jfsIO]
+root     31041  0.0  0.0      0     0 ?        S    Oct28   0:00 [jfsCommit]
+root     31042  0.0  0.0      0     0 ?        S    Oct28   0:00 [jfsSync]
+root     32803  0.0  0.7 453384 26352 ?        Ssl  Oct28   3:15 /usr/bin/docker daemon
+root     56923  0.0  0.0      0     0 ?        S    14:34   0:00 [kworker/u128:1]
+root     57149  0.0  0.0      0     0 ?        S    15:06   0:00 [kworker/0:1]
+root     57685  0.0  0.1 103568  6508 ?        Ss   15:21   0:00 sshd: Brandon [priv]
+root     57717  0.0  0.0      0     0 ?        S    15:21   0:00 [kworker/0:2]
+Brandon  57754  0.0  0.0 103568  3352 ?        S    15:21   0:00 sshd: Brandon@pts/0 
+Brandon  57756  0.0  0.1  13452  5700 pts/0    Ss   15:21   0:00 -bash
+root     63225  0.0  0.0      0     0 ?        S    15:36   0:00 [kworker/u128:2]
+root     63271  0.0  0.1 103568  6384 ?        Ss   15:39   0:00 sshd: Brandon [priv]
+Brandon  63327  0.0  0.0 103568  3108 ?        S    15:40   0:00 sshd: Brandon@pts/3 
+Brandon  63328  0.0  0.1  13452  5552 pts/3    Ss+  15:40   0:00 -bash
+Brandon  63357  0.0  0.5  52948 18376 pts/0    S+   15:42   0:00 python ./container-server.py
+Brandon  63360  0.2  0.5 127324 19396 pts/0    Sl+  15:42   0:01 /usr/bin/python ./container-server.py
+root     63370  0.0  0.1 103568  6460 ?        Ss   15:47   0:00 sshd: Brandon [priv]
+Brandon  63428  0.0  0.0 103568  3348 ?        S    15:47   0:00 sshd: Brandon@pts/5 
+Brandon  63429  0.0  0.1  13452  5692 pts/5    Ss   15:47   0:00 -bash
+Brandon  63464  0.0  0.0   8740  2312 pts/5    R+   15:51   0:00 ps aux
+Brandon  63465  0.0  0.0   8272  1568 pts/5    S+   15:51   0:00 less
